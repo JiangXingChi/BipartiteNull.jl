@@ -1,4 +1,4 @@
-## <center>BipartiteNul.jl</center>
+## <center>BipartiteNull.jl</center>
 ### Overview
 BipartiteNull.jl is a tool for building null model of bipartite network. This work refers to the R package bipartite.
 ### Install
