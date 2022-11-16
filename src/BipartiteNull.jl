@@ -39,7 +39,7 @@ export ExampleData,ReadCSV,RmZeroCol,RmZeroRow,Weight2Bool,SampleVector,Coin,Coi
 
 #  包介绍
 """
-BipartiteNull. jl is a tool for building null model of bipartite network.
+BipartiteNull.jl is a tool for building null model of bipartite network.
 """
 BipartiteNull
 
